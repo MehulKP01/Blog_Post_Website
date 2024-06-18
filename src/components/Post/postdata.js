@@ -1,0 +1,40 @@
+export const posts = [
+    {
+        id: 1,
+        title: "First Post",
+        postImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrvGMHDy3k3-FT5MQFmwKxcWtB4PnxyAOUpg&s",
+        caption: "This is the content of the first post.",
+        user: "John Doe",
+        date: "2024-06-07",
+    },
+    {
+        id: 2,
+        title: "Second Post",
+        postImage: "https://zoomdigital.ae/wp-content/uploads/2022/12/What-is-Guest-Posting-in-SEO-A-Detailed-Guide.jpg",
+        caption: "This is the content of the second post.",
+        user: "Jane Smith",
+        date: "2024-06-08",
+    },
+    {
+        id: 3,
+        title: "Third Post",
+        postImage: "https://lerablog.org/wp-content/uploads/2018/01/gtrgrtgfgfgs.jpg",
+        caption: "This is the content of the Third post.",
+        user: "Vishal Sharma",
+        date: "2024-06-02",
+    }, {
+        id: 4,
+        title: "Fourth Post",
+        postImage: "https://reputationtoday.in/wp-content/uploads/2020/04/bigstock-Blog-Blogging-Homepage-Social-134171063.jpg",
+        caption: "This is the content of the Fourth post.",
+        user: "Dip Patel",
+        date: "2024-08-08",
+    }, {
+        id: 5,
+        title: "Fifth Post",
+        postImage: "https://mailrelay.com/wp-content/uploads/2018/03/que-es-un-blog-1.png",
+        caption: "This is the content of the Fifth post.",
+        user: "Mehul Panchal",
+        date: "2024-03-07",
+    },
+];
